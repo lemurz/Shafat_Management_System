@@ -1,0 +1,9 @@
+:host {
+    display : flex;
+    flex-direction : column;
+}
+
+html, body {
+    margin : 0;
+    font-family : Arial, sans-serif;
+}
